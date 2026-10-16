@@ -9,4 +9,4 @@ Estudio comparado sobre determinantes del crecimiento económico a largo plazo, 
 
 ## Contenido
 - `Informe de crecimiento económico..pdf`: Documento completo con el análisis de las cinco economías.
-- `analisis_crecimiento.ipynb`: Cuaderno interactivo con el código en Python para el procesamiento de datos y la generación de gráficos.
+- `codigo_analisis.ipynb`: Cuaderno interactivo con el código en Python para el procesamiento de datos y la generación de gráficos.
