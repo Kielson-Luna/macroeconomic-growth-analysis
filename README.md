@@ -7,5 +7,5 @@ Estudio comparado sobre determinantes del crecimiento económico a largo plazo, 
 - **Análisis cuantitativo:** Descomposición empírica de la Productividad Total de los Factores (PTF).
 - **Herramientas:** Ingesta y tratamiento de datos con Python en Google Colab.
 
-## 📄 Contenido
+## Contenido
 - `Informe de crecimiento económico..docx`: Documento completo con el análisis de las cinco economías.
